@@ -1,25 +1,29 @@
 # Profit Lattice – Learn Data Engineering by Doing 🚀
-**Created by [Nordex](https://profitlattice.gumroad.com)**  
 
-Profit Lattice is an open-source educational framework that teaches **data engineering, analytics, and automation** through a real working system — no trading, no personal data, just learning.
+**Created by [Nordex](https://nordex.gumroad.com)**  
+**Free Core Repo:** https://github.com/jason-con/profit-lattice  
+**Demo App:** https://jason-con-profit-lattice.streamlit.app  
 
-> ⚖️ **Disclaimer:** Educational use only. No trading, investment, or private data.
+Profit Lattice is an open-source educational project that teaches **data engineering, analytics, and automation** through a real working system — no trading, no personal data, just learning.
 
----
-
-## 🧠 Learn
-- API data collection (ccxt, requests)
-- Database design (PostgreSQL / TimescaleDB)
-- Analytics & ML (pandas, scikit-learn, PyTorch)
-- Dashboards (Streamlit)
-- Automation (Airflow)
+> ⚖️ **Disclaimer:** Educational use only. No trading, no investment advice, no private data.
 
 ---
 
-## ⚙️ Quick start
+## 🧠 What You’ll Learn
+- How to collect and normalize real-world data from APIs  
+- How to structure databases for time-series analytics  
+- How to analyze and visualize data using Streamlit  
+- How to automate and scale data pipelines  
+
+---
+
+## ⚙️ Quick Start
+
 ```bash
-git clone https://github.com/Acte/profit-lattice.git
+git clone https://github.com/jason-con/profit-lattice.git
 cd profit-lattice
 pip install -r requirements.txt
 streamlit run app/reports/dash.py
+
 
