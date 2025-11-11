@@ -1,0 +1,18 @@
+LINKEDIN
+🚀 Just launched Profit Lattice – a real data-engineering learning system.
+Learn real pipelines: API → DB → ML → Dashboard.
+Free demo: https://profit-lattice.streamlit.app
+Pro Pack ($19.90): https://profitlattice.gumroad.com
+Built by Nordex. #DataScience #Python #OpenSource
+
+REDDIT (r/datascience)
+[Project Release] Profit Lattice – Free Data Engineering Learning Framework
+Demo → https://profit-lattice.streamlit.app
+Repo → https://github.com/Acte/profit-lattice
+Pro Pack ($19.90) → https://profitlattice.gumroad.com
+Educational only, open-source, feedback welcome!
+
+TWITTER / X
+🚀 Profit Lattice — learn real data pipelines (API→DB→ML→Dashboard)
+🆓 Demo https://profit-lattice.streamlit.app | 💼 Pro $19.90 https://profitlattice.gumroad.com
+#Python #DataEngineering #MachineLearning
