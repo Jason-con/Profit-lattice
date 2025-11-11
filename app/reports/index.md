@@ -3,7 +3,8 @@
 
 Profit Lattice teaches modern data engineering — API ingestion, database design, analytics, ML, and dashboards.
 
-🔹 **Demo:** [profit-lattice.streamlit.app](https://profit-lattice-9davxtkrdmz2stgysdniop.streamlit.app/
+🔹 **Demo:** [profit-lattice.streamlit.app](https://jason-con-profit-lattice.streamlit.app
+
 
 🔹 **Code:** [github.com/Acte/profit-lattice](https://github.com/Acte/profit-lattice)  
 🔹 **Pro Pack ($19.90):** [profitlattice.gumroad.com](https://profitlattice.gumroad.com)
